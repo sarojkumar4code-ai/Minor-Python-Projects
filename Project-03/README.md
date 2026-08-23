@@ -1,3 +1,18 @@
-# Project 03
+# Project 03 - Scientific Calculator
 
-This folder will contain Minor Project 3.
+A simple Python-based scientific calculator that performs basic mathematical operations.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power
+- Square root
+- Percentage
+
+## Technology Used
+
+- Python
+- Google Colab
